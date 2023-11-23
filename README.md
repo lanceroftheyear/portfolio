@@ -4,7 +4,7 @@ portfolio
 ## Server
 
 * RabbitMQ
-* Elasticsearch
+* Elasticsearch, kibana
 
 ## Client
 
